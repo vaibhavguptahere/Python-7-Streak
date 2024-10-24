@@ -60,27 +60,7 @@ To run the QR code generator, you need to have Python installed on your machine.
 
 ```bash
 pip install qrcode[pil]
-Usage
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/python-qr-code-generator.git
-cd python-qr-code-generator
-Run the QR code generator script:
-
-bash
-Copy code
-python qr_generator.py
-Follow the on-screen prompts to enter the text or URL you want to convert into a QR code.
-
-The generated QR code will be saved as an image file in the current directory.
-
-Code Structure
-qr_generator.py: The main script that handles QR code generation.
-README.md: This documentation file.
-requirements.txt: A list of Python packages required for the project.
-Learning Outcomes
 During this project, I learned:
 
 How to use Python libraries for generating QR codes and handling images.
