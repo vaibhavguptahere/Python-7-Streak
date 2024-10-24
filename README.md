@@ -48,14 +48,6 @@ Project 7: coming soon...
 
 #
 
-## Project Details
-
-### 1. Qr code Generator
-• Description: Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
-
-• Libraries Used: 
-
-...
 #
 
 # 
