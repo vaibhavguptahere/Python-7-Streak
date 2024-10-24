@@ -21,7 +21,7 @@ This repository contains the following Python projects:
 A QR Code Generator using Python creates QR codes from input data such as text or URLs, which can be scanned using QR code readers. This is typically done using the qrcode library in Python, allowing easy and efficient generation of customized QR codes.
 
 
-![image]()
+![image](https://i.postimg.cc/KvZZtXq1/Screenshot-2024-10-24-143022.png)
 
 Project 2: coming soon...
 
