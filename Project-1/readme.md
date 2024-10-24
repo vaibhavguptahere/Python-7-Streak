@@ -16,6 +16,20 @@ This repository contains a simple Python-based QR code generator. The applicatio
 - **qrcode**: A Python library for generating QR codes.
 - **PIL (Pillow)**: A Python Imaging Library used to handle image creation and manipulation.
 
+## Code Structure
+
+• **qr-gen.py**: The main script that handles QR code generation.
+• **README.md**: This documentation file.
+
+## Learning Outcomes
+
+During this project, I learned:
+
+• How to use Python libraries for generating QR codes and handling images.
+• The structure of a Python project, including how to organize code and documentation.
+• Basic command-line input and output operations in Python.
+• How to create user-friendly interfaces for console applications.
+• Best practices for writing clean and maintainable code.
 ## Installation
 
 To run the QR code generator, you need to have Python installed on your machine. You can install the necessary packages using pip:
