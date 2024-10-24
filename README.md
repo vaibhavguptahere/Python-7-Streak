@@ -24,6 +24,8 @@ A QR Code Generator using Python creates QR codes from input data such as text o
 ![Logo](https://i.postimg.cc/KvZZtXq1/Screenshot-2024-10-24-143022.png)
 
 
+#
+
 Project 2: coming soon...
 
 #
