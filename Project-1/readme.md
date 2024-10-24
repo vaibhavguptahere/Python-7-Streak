@@ -18,18 +18,18 @@ This repository contains a simple Python-based QR code generator. The applicatio
 
 ## Code Structure
 
-• **qr-gen.py**: The main script that handles QR code generation.
-• **README.md**: This documentation file.
+- **qr-gen.py**: The main script that handles QR code generation.
+- **README.md**: This documentation file.
 
 ## Learning Outcomes
 
 During this project, I learned:
 
-• How to use Python libraries for generating QR codes and handling images.
-• The structure of a Python project, including how to organize code and documentation.
-• Basic command-line input and output operations in Python.
-• How to create user-friendly interfaces for console applications.
-• Best practices for writing clean and maintainable code.
+- How to use Python libraries for generating QR codes and handling images.
+- The structure of a Python project, including how to organize code and documentation.
+- Basic command-line input and output operations in Python.
+- How to create user-friendly interfaces for console applications.
+- Best practices for writing clean and maintainable code.
 
 ## Installation
 
