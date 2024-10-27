@@ -1,7 +1,7 @@
 
 # Python-7-Streak..!
 
-![Logo](https://i.postimg.cc/fLKcynqx/Whats-App-Image-2024-10-24-at-05-27-39-68744a4a.jpg)
+![Logo](https://i.postimg.cc/DyGyB0Dw/main1.jpg)
 
 
 7-Streak Python Project Series 🚀
