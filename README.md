@@ -26,8 +26,11 @@ A QR Code Generator using Python creates QR codes from input data such as text o
 
 #
 
-Project 2: coming soon...
+### Project 2: Whatsapp Message Automation
 
+This project automates the scheduling and sending of WhatsApp messages using Python. By leveraging the pywhatkit library, users can set up messages to be sent at a specified time through WhatsApp Web, allowing for seamless, hands-free communication.
+
+![Logo](https://i.postimg.cc/0QC76ZYh/img-2.png)
 #
 Project 3: coming soon...
 
