@@ -34,7 +34,12 @@ This project automates the scheduling and sending of WhatsApp messages using Pyt
 ![Logo](https://i.postimg.cc/sgF1r7SW/Whats-App-Image-2024-10-27-at-19-50-26-08977021.jpg)
 
 #
-Project 3: coming soon...
+### Project 3: Video to Audio Converter
+
+
+This project is a Video to Audio Converter built with Python, using MoviePy and Tkinter. It allows users to select any video (mp4) file and easily extract the audio, saving it as an mp3 in the same location. Perfect for creating audio files from tutorials, speeches, or music videos!
+
+![Logo](https://i.postimg.cc/ZRHK8dPq/img2.png)
 
 #
 
