@@ -50,10 +50,15 @@ video_to_audio_converter/
 Screenshots of the conversion process are available in the repository to demonstrate how it works step-by-step.
 
 # 
+![Logo](https://i.postimg.cc/tCZpTfcJ/img1.png)
 
 #
+![Logo](https://i.postimg.cc/ZRHK8dPq/img2.png)
 
 # 
+![Logo](https://i.postimg.cc/Jzj83XMW/img3.png)
+
+
 
 ---
 
