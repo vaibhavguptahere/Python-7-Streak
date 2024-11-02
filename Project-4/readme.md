@@ -41,7 +41,7 @@ This will launch the calculator application. 🎉
 
 ## 🛠️ Requirements
 
-- **Python 3.x**
+- **Python**
 - **Tkinter** (standard with most Python installations)
 
 ## 🎉 Conclusion
