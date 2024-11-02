@@ -43,7 +43,10 @@ This project is a Video to Audio Converter built with Python, using MoviePy and 
 
 #
 
-Project 4: coming soon...
+Project 4: Calculator GUI
+A simple, responsive calculator app built with Python's Tkinter library, featuring basic arithmetic operations and an easy-to-use interface. Perfect for exploring GUI development with Tkinter!
+
+![image](https://i.postimg.cc/fRYR0nFB/Screenshot-2024-11-02-230414.png)
 
 #
 
