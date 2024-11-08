@@ -4,7 +4,7 @@
 Welcome to the **File Manager App**! 📁 This is Project #5 of my **Python 7 Streak** 🚀, where I dive deeper into Python with each project. This app lets you manage files with ease—whether it's creating, moving, renaming, or deleting files, it's all handled right here!
 
 ## 📌 Project Overview
-This project uses Python to create a simple and effective file manager, enabling you to perform essential file operations directly from the app. It’s designed with clean code, intuitive functions, and easy navigation to enhance your file management experience.
+This project uses Python to create a simple and effective file manager. It’s designed with clean code, intuitive functions, and easy navigation to enhance your file management experience.
 
 ---
 
