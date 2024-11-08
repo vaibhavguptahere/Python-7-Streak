@@ -24,7 +24,6 @@ This project made use of the following Python libraries:
 
 - **os** 🗂️: For interacting with the operating system (e.g., creating, deleting, moving files)
 - **shutil** 🛠️: To perform high-level file operations, like copying and moving files
-- **tkinter** 🎨: To create a basic GUI for ease of interaction
 
 ---
 
