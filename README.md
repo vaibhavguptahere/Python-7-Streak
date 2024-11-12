@@ -55,7 +55,7 @@ This project uses Python to create a simple and effective file manager, enabling
 
 #
 
-Project 6: coming soon...
+### Project 6: Face Detection
 #
 
 Project 7: coming soon...
