@@ -56,6 +56,7 @@ This project uses Python to create a simple and effective file manager, enabling
 #
 
 ### Project 6: Face Detection
+This project is all about real-time face detection using Python and the OpenCV library. It captures video from your webcam and detects faces with the help of Haar Cascade Classifiers. With just a simple press of the 'S' key, the face detection system can be easily stopped, making it a fun and interactive way to explore computer vision!
 #
 
 Project 7: coming soon...
