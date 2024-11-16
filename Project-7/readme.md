@@ -44,7 +44,7 @@ python main.py
 ```
 
 ## Screenshot of the Application 📸:
-![Weather App Screenshot](screenshot.png)  *(Replace with actual screenshot)*
+![Weather App Screenshot](https://i.postimg.cc/2jFMTc16/Screenshot-2024-11-16-110102.png)  *(Replace with actual screenshot)*
 
 ## Conclusion 🎉:
 This project marks the completion of my Python 7 Streak. Throughout this journey, I have learned a lot about Python's capabilities in different domains like GUI development, API integration, and data handling. The experience has deepened my understanding of Python and its application in real-world projects.
