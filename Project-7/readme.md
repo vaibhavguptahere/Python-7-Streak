@@ -34,6 +34,7 @@ To run the Weather Forecast Application, make sure you have Python 3.x installed
 
 ```bash
 pip install requests Pillow
+pip install tkinter
 ```
 
 Once the dependencies are installed, you can run the application by executing the Python script:
