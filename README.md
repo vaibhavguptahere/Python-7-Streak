@@ -61,9 +61,6 @@ This project is all about real-time face detection using Python and the OpenCV l
 
 ### Project 7: Weather Checker Application
 [![Screenshot-2024-11-02-230414.png](https://i.postimg.cc/2jFMTc16/Screenshot-2024-11-16-110102.png)
-#
-
-#
 
 # 
 
