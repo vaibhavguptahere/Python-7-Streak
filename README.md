@@ -52,11 +52,12 @@ A simple, responsive calculator app built with Python's Tkinter library, featuri
 
 ### Project 5: File Manager 
 This project uses Python to create a simple and effective file manager, enabling you to perform essential file operations directly from the app. It’s designed with clean code, intuitive functions, and easy navigation to enhance your file management experience.
-
+![Logo](https://i.postimg.cc/y8PmWGYM/file-manager.png)
 #
 
 ### Project 6: Face Detection
 This project is all about real-time face detection using Python and the OpenCV library. It captures video from your webcam and detects faces with the help of Haar Cascade Classifiers. With just a simple press of the 'S' key, the face detection system can be easily stopped, making it a fun and interactive way to explore computer vision!
+![Logo](https://i.postimg.cc/t4XP0zt2/face.png)
 #
 
 ### Project 7: Weather Checker Application
